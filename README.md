@@ -23,11 +23,11 @@ Statistical Charts:Generated frequency distribution Histograms paired with Paret
 Advanced Dashboards: Implemented comparative Scatter Diagrams, localized conditional Heat Maps, and micro-trend inline Sparklines.
 
 Portfolio Directory:
-`PR Practical 2.xlsx` — Core Functions & Descriptive Statistics Portfolio
+`PR Practical 2.xlsx` - Core Functions & Descriptive Statistics Portfolio
 Focus: Automated grading tables, clean text frameworks, dynamic conditional aggregations, and core central tendency metrics.
-`pr practical 4.xlsx` — Economic Inequality Modeling Workbook
+`pr practical 4.xlsx` - Economic Inequality Modeling Workbook
 Focus: Structural data manipulation charting the Lorenz Curve and calculating statistical Gini Indices to quantify income distribution variance.
-`pr practical 6.xlsx` — Advanced Dashboard and Visual Engineering Dataset
+`pr practical 6.xlsx` - Advanced Dashboard and Visual Engineering Dataset
 Focus: Implementation of executive data assets, multi-series category charts, Pareto analysis, heat maps, and localized cell-embedded sparklines.
 
 
